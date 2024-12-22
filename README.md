@@ -4,7 +4,7 @@ This is a simple **Number Guessing Game** built using **HTML**, **CSS**, and **J
 
 ## 🔗 Demo
 
-You can check out the live demo of the project here: [Number Guessing Game](https:)
+You can check out the live demo of the project here: [Number Guessing Game](https://ashishvelhal.github.io/Guess_number_game/)
 
 ---
 
